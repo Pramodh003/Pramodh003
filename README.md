@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Pramodh
+- 👋 Hi, I’m Pramodh B R
 - 👀 I’m interested in Reading, Exploring new things, playing cricket
 - 🌱 I’m currently learning Machine learning, Deep learning, Computer Vision
 - 💞️ I’m currently looking for Data Science, Machine learning, and Data Analyst job
