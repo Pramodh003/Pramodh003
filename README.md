@@ -5,7 +5,7 @@
 - 📫 How to reach me ... pramodhbr29@gmail.com Mobile - 7892514047
 - Drive - https://drive.google.com/drive/u/0/folders/1CkSmU5MmZdioVX3avsxQOznOv3dXKiGX
 
-I have also written blogs like how do I explore data science in my real life
+Blogs
 - https://medium.com/@pramodhbr29/journey-to-stocks-as-data-scientist-41332e5f18b9
 - https://medium.com/@pramodhbr29/buzz-eb3989520daf
 
