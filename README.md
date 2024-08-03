@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Pramodh B R
 - 👀 I’m interested in Reading, Exploring new things, playing cricket
-- 🌱 I’m Machine learning, Deep learning, Computer Vision and Devops
-- 💞️ I’m currently looking for Data Science, Machine learning, and Data Analyst job
+- 🌱 I’m DevOps engineer interested Machine learning, Deep learning, Computer Vision and Devops
+- 💞️ I’m currently working as DevOps engineer
 - 📫 How to reach me ... pramodhbr29@gmail.com Mobile - 7892514047
 - Drive - https://drive.google.com/drive/u/0/folders/1CkSmU5MmZdioVX3avsxQOznOv3dXKiGX
 
